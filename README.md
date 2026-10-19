@@ -2,7 +2,7 @@
 
 Java console final project managing missions, spacecraft, resources and research projects.
 
-**Portfolio:** [Carl Renz Colico](https://github.com/renzkie8) · **Year:** Year 2
+**Portfolio:** [Carl Renz Colico](https://github.com/renzkie8) · **Year / Section:** Year 2 — BSCS 2-A
 
 ## Methodology
 
